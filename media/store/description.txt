@@ -1,0 +1,16 @@
+Give the time a little knock.
+
+Loose Digits keeps a clear pixel clock at rest. Knock the watch case twice and the numbers tumble, then reassemble automatically in about three seconds.
+
+Make it yours:
+- Trigger: Double case knock (default), Single case knock, or Wrist roll.
+- Independent background, digit/date, and colon accent colors.
+- Animation On or Off for a completely still clock.
+- Your watch's 12-hour or 24-hour format, with AM/PM in 12-hour mode.
+- Optional date: YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+
+Case knocks are detected from acceleration, not touchscreen input. For wrist-roll mode, briefly hold the watch approximately face-up, then roll sideways. A short cooldown prevents repeated tumbles; further movement cannot postpone reassembly.
+
+The animated preview shows a sample tumble followed by color examples. On the watch, your chosen colors stay fixed until you change settings.
+
+Native layouts for Pebble Time 2, original Time Round, and Round 2. Works offline after configuration. Detection sensitivity depends on your watch and tapping motion. Verified in emulators; physical knock sensitivity and battery impact have not been measured.

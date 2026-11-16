@@ -1,0 +1,40 @@
+{
+  "name": "loose-digits-watch",
+  "author": "Daniel Bally",
+  "version": "0.2.0",
+  "private": true,
+  "keywords": [
+    "pebble-app"
+  ],
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  },
+  "pebble": {
+    "displayName": "Loose Digits",
+    "uuid": "dacd2083-febd-444e-a016-e20449978be6",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "chalk",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Motion",
+      "DateFormat",
+      "Trigger",
+      "Background",
+      "Foreground",
+      "Accent"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}

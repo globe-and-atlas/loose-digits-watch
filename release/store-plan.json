@@ -1,0 +1,67 @@
+{
+  "uuid": "dacd2083-febd-444e-a016-e20449978be6",
+  "version": "0.2.0",
+  "artifact": "/Users/danielbally/Git/loose-digits-watch/dist/Loose-Digits-0.2.0.pbw",
+  "sha256": "089eb177ef038a6143c6e4f4bbdbfd2ef60f1ffb47ab2f0c0e5bb6697502a221",
+  "app_id": null,
+  "description_sha256": "42ec0bbdd9d63e16d55462ab6d6cee536e2c126179db40ca84280a818a5e42cd",
+  "assets": [
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/icon-small.png",
+      "sha256": "02dea511e04fee43669018fc29ab14ba2ec3040088bc1d015ed8ee3aacd68561"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/icon-large.png",
+      "sha256": "86d0fee097bdc6469e7ea1e74b77533bcc615303be883ad0cd7eba08032236d4"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/emery_01_tumble_colors.gif",
+      "sha256": "3635e813bd7e0db32b7fde72006e27d0763a57d78944a4e5d4dafd72e8a2a60a"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/emery_02_original.gif",
+      "sha256": "54992c30749f22c67e2627a1448044043f8e496c89fd805acf2d8cd7134dab51"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/emery_03_midnight.gif",
+      "sha256": "41b030c74ccf8678a939c87f5f6f879142ffc1336e840195f95ea35befd79bcd"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/emery_04_mint.gif",
+      "sha256": "d5b3a767a2045543c1d9182bebd123d5f521e7f1423f240ecbe408301420cbe7"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/chalk_01_tumble_colors.gif",
+      "sha256": "431a364dbe0354e744d9f1092e83dcd66bfed0e773db7c709db3b1980b940efa"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/chalk_02_original.gif",
+      "sha256": "c0d7c935257f6348c73e63bdd77c26679f13b9d78f7e9f58a7c20bc0ae72fc26"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/chalk_03_midnight.gif",
+      "sha256": "291231c3e9e6f436405b77068c548d06cf2f80ba6afaf6f8286785cf63553f7f"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/chalk_04_mint.gif",
+      "sha256": "41cd46b8287cbdd85723e14da073f6af837d27b54990bd98847e213279c72640"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/gabbro_01_tumble_colors.gif",
+      "sha256": "9cf1c464eb4d342ebd4496758fdbc8f2a8418316a9dbe914adb2d80f165a93ba"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/gabbro_02_original.gif",
+      "sha256": "bdcb8ff2a7c4d2de858c034d5e227eb297e48ebeec2ce0379a0c8644e2c3b47e"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/gabbro_03_midnight.gif",
+      "sha256": "1e774cb6652dde6703621dfaf0264252b16a8f1ddef113d48015a9f2924d412e"
+    },
+    {
+      "path": "/Users/danielbally/Git/loose-digits-watch/media/store/gabbro_04_mint.gif",
+      "sha256": "03ba735207274eff5fac284e10084a1b77ad09473c905abf2185074e9f53270b"
+    }
+  ],
+  "release_notes": "First public release. Double case-knock tumbling with automatic reassembly, selectable single-knock or wrist-roll triggers, custom colors, optional date, and native Time 2 / Time Round / Round 2 layouts."
+}
